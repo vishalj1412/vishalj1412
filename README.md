@@ -1,6 +1,6 @@
 _✨ Hello I'm Vishal Jagtap !! In✨🙂 
 
-<img src="{https://github.com/vishalj1412/AddressBookService/blob/master/AddressBookService.jpg}" />
+<img src="{AddressBookService.jpg}" />
 
 
 
