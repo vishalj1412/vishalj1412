@@ -2,7 +2,7 @@ _✨ Hello I'm Vishal Jagtap !! In✨🙂
 
 <img src="AddressBookService.jpg"> demo</img>
      
-<a href="http://kalpesh-portfolio.s3-website.ap-south-1.amazonaws.com/"><b>personal websites</b></a>
+<a href="http://kalpesh-portfolio.s3-website.ap-south-1.amazonaws.com/"><b><i>personal websites</i></b></a>
 
 
 
