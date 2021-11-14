@@ -1,6 +1,4 @@
 _✨ Hello I'm Vishal Jagtap !! In✨🙂 
-⚙️Technologies & Tools :-
-html5   css3   file_JavaScript    react   Java7VM   visual studio   ij   mysql  shellscript  Microsoft-Office-icon
 
 
 <!--
