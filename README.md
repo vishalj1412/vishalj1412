@@ -1,5 +1,5 @@
 # Hello, I'm VISHAL JAGTAP!! In 
-###*Software Developer*
+### Software Developer
 ##
 
 > ### 💬🏷️About Me💬
