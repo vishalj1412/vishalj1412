@@ -1,4 +1,8 @@
 _✨ Hello I'm Vishal Jagtap !! In✨🙂 
+⚙️Technologies & Tools :-
+html5   css3   file_JavaScript    react   Java7VM   visual studio   ij   mysql  shellscript  Microsoft-Office-icon
+
+
 <!--
 **vishalj1412/vishalj1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
