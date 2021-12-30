@@ -4,11 +4,11 @@
 
 > ### 💬🏷️About Me💬
 >* 🎇✨✨🔭 I’m currently working on Eaton PVT.Ltd ✨✨✨✨
->* 🌱 I’m currently learning Full Stack devlopment 🌱
+>* 🌱 I’m currently learning AWS cloud computing 🌱
 >*  I'm intractive⚖️, 
  Intrested in learning new concepts🧲,
  Cool🆒😎,
->*  🤔 I’m looking For Job as a Software Devloper
+>*  🤔 I’m looking For Job as a DevOps Engineer
  
 ##
 
