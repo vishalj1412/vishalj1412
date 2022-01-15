@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
 | 1 | **Github:** Commands Learning | [https://github.com/Kalpesh14m/Github-Learning](https://github.com/Kalpesh14m/Github-Learning) |
-| 2 | **Linux commands | [https://github.com/Kalpesh14m/README-Templates](https://github.com/Kalpesh14m/README-Templates) |
-| 3 | **AWS concepts | [https://github.com/vishalj1412/AWS](https://github.com/vishalj1412/AWS) |
-| 4 | **Core Java** | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Core%20java/CORE_JAVA.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Core%20java/CORE_JAVA.md) |
-| 5 | **MYSQL Learning** | [https://github.com/Kalpesh14m/MYSQL-Learning](https://github.com/Kalpesh14m/MYSQL-Learning) |
-| 6 | **Servlet** |[https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md) |
-| 7 | **SpringMVC** | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md) |
+| 2 | Linux commands | [https://github.com/Kalpesh14m/README-Templates](https://github.com/Kalpesh14m/README-Templates) |
+| 3 | AWS concepts | [https://github.com/vishalj1412/AWS](https://github.com/vishalj1412/AWS) |
+| 4 | Java | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Core%20java/CORE_JAVA.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Core%20java/CORE_JAVA.md) |
+| 5 | MYSQL Learning | [https://github.com/vishalj1412/MySql-Concepts](https://github.com/vishalj1412/MySql-Concepts) |
+| 6 | Network |[https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md) |
+| 7 | Pythone Concepts | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md) |
