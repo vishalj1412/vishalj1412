@@ -43,5 +43,3 @@ Here are some ideas to get you started:
 | 3 | AWS concepts | [https://github.com/vishalj1412/AWS](https://github.com/vishalj1412/AWS) |
 | 4 | Java concepts| [https://github.com/vishalj1412/java-learning](https://github.com/vishalj1412/java-learning) |
 | 5 | MYSQL Learning | [https://github.com/vishalj1412/MySql-Concepts](https://github.com/vishalj1412/MySql-Concepts) |
-| 6 | Network |[https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Servlet/Servlet.md) |
-| 7 | Pythone Concepts | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Spring%20MVC/Spring_MVC.md) |
