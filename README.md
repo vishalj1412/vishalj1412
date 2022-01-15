@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 | Index | Topics | Repo |
 | :-------------: | :------------- |:-------------| 
 | 1 | **Github:** Commands Learning | [https://github.com/Kalpesh14m/Github-Learning](https://github.com/Kalpesh14m/Github-Learning) |
-| 2 | Linux commands | [https://github.com/Kalpesh14m/README-Templates](https://github.com/Kalpesh14m/README-Templates) |
+| 2 | Linux commands | [https://github.com/vishalj1412/Linux-commands](https://github.com/vishalj1412/Linux-commands) |
 | 3 | AWS concepts | [https://github.com/vishalj1412/AWS](https://github.com/vishalj1412/AWS) |
 | 4 | Java | [https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Core%20java/CORE_JAVA.md](https://github.com/Kalpesh14m/Kalpesh14m/blob/main/Core%20java/CORE_JAVA.md) |
 | 5 | MYSQL Learning | [https://github.com/vishalj1412/MySql-Concepts](https://github.com/vishalj1412/MySql-Concepts) |
