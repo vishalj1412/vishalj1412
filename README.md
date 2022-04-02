@@ -1,10 +1,10 @@
 # Hello, I'm VISHAL JAGTAP!! In 
-### Software Developer 💻
+### DevOps Engineer 💻
 ##
 
 > ### 💬🏷️About Me💬
->* 🎇✨✨🔭 I’m currently working on Eaton PVT.Ltd ✨✨✨✨
->* 🌱 I’m currently learning AWS cloud computing 🌱
+>* 🎇✨✨🔭 I’m previously worked in Eaton PVT.Ltd ✨✨✨✨
+>* 🌱 I’m currently learning new technologies in AWS cloud computing 🌱
 >*  I'm intractive⚖️, 
  Intrested in learning new concepts🧲,
  Cool🆒😎,
