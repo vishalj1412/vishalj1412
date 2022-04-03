@@ -3,7 +3,7 @@
 ##
 
 > ### 💬🏷️About Me💬
->* 🎇✨✨🔭 I’m previously worked in Eaton PVT.Ltd ✨✨✨✨
+>* 🎇✨✨🔭 I was previously worked in Eaton PVT.Ltd ✨✨✨✨
 >* 🌱 I’m currently learning new technologies in AWS cloud computing 🌱
 >*  I'm intractive⚖️, 
  Intrested in learning new concepts🧲,
