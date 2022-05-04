@@ -3,12 +3,14 @@
 ##
 
 > ### 💬🏷️About Me💬
+> 
+>* 🎇✨✨🔭 I am now working in Rapyder as a Cloud Engineer ✨✨✨✨
 >* 🎇✨✨🔭 I was previously worked in Eaton PVT.Ltd ✨✨✨✨
 >* 🌱 I’m currently learning new technologies in AWS cloud computing 🌱
 >*  I'm intractive⚖️, 
  Intrested in learning new concepts🧲,
  Cool🆒😎,
->*  🤔 I’m looking For Job as a DevOps Engineer
+
  
 ##
 
